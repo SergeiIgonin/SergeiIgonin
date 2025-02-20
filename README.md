@@ -1,12 +1,16 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hi+there,+I'm+Sergey)](https://git.io/typing-svg)
 
 ### Обо мне:
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="20"/></h1>   Привет, меня зовут Сергей, мне 42 года, я QA Engineer. C января 2023 по настоящий момент работаю Инженером по тестированию в НСК "Триколор", г. Санкт-Петербург. Тестирую мобильные (*Android, iOS*) и SmartTV (*Android TV, tvOS, Tizen, webOS*) приложения, UI и API WEBок серверов, ПО фирменных брендовых ТВ и ТВ-стиков "Триколор". Веду тестовую документацию в Test IT и Xmind. Получаю задачи, оформляю баг-репорты и вношу предложения в Jira.
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="20"/></h1>   Привет, меня зовут Сергей, мне 42 года, я QA Engineer. C января 2023 по настоящий момент работаю Инженером по тестированию в НСК "Триколор", г. Санкт-Петербург. Тестирую мобильные (*Android, iOS*) и SmartTV (*Android TV, tvOS, Tizen, webOS*) приложения, UI и API WEBок серверов, ПО фирменных брендовых ТВ и ТВ-стиков "Триколор".  
+- Я изучаю автоматизацию тестирования и пишу UI и API автотесты на **Python**
+- Веду тестовую документацию в **Test IT** и **Xmind**.  
+- Получаю задачи, оформляю баг-репорты и вношу предложения в **Jira**.  
+
 ___
 ###
-Мои контакты:   
-telegram: [@Serge_QA](http://t-do.ru/aspia_ru "Telegram channel")  
-email: igonin.sergei3@gmail.ru
+Мое резюме на [**hh.ru**](https://spb.hh.ru/resume/84b46d0dff0e6c05eb0039ed1f4a333153696f)  
+Мой telegram: [@Serge_QA](http://t-do.ru/aspia_ru "Telegram channel")  
+Мой email: **<igonin.sergei3@gmail.ru>**
 ###
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
