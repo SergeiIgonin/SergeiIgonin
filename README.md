@@ -1,9 +1,8 @@
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="22"/></h1>   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Приветствую+Вас!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hello,+world!)](https://git.io/typing-svg)
 
 ### Обо мне:
-Меня зовут Сергей, я QA Engineer. C января 2023 по настоящий момент работаю Инженером по тестированию в отделе тестирования НСК "Триколор" (г. Санкт-Петербург). Тестирую мобильные (Android, iOS) и SmartTV (Android TV, tvOS, Tizen, webOS) приложения, UI и API WEBок серверов, ПО фирменных брендовых ТВ и ТВ-стиков "Триколор". Веду тестовую документацию в Test IT и Xmind. Получаю задачи, оформляю баг-репорты и вношу предложения в Jira.                             
-
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="20"/></h1>   Привет, меня зовут Сергей, мне 42 года и я QA Engineer. C января 2023 по настоящий момент работаю Инженером по тестированию в отделе тестирования НСК "Триколор" (г. Санкт-Петербург). Тестирую мобильные (Android, iOS) и SmartTV (Android TV, tvOS, Tizen, webOS) приложения, UI и API WEBок серверов, ПО фирменных брендовых ТВ и ТВ-стиков "Триколор". Веду тестовую документацию в Test IT и Xmind. Получаю задачи, оформляю баг-репорты и вношу предложения в Jira.
+___
 ###
 Мои контакты:   
 telegram: [@Serge_QA](http://t-do.ru/aspia_ru "Telegram channel")  
