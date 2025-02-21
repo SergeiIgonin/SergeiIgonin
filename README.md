@@ -10,7 +10,7 @@
 ___
 ###
 Мое резюме на [**hh.ru**](https://spb.hh.ru/resume/84b46d0dff0e6c05eb0039ed1f4a333153696f)  
-Мой telegram: [@Serge_QA](http://t-do.ru/aspia_ru "Telegram channel")  
+Мой telegram: [@Serge_QA](https://t.me/Serge_QA)  
 Мой email: **<igonin.sergei3@gmail.ru>**
 ###
 
