@@ -1,7 +1,7 @@
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hi+there,+I'm+Sergey)](https://git.io/typing-svg)
 
 ### Обо мне:
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="20"/></h1>   Привет, меня зовут Сергей, мне 42 года, я QA engineer. C января 2023 по настоящий момент работаю Инженером по тестированию в НСК "Триколор", г. Санкт-Петербург. Тестирую мобильные (*Android, iOS*) и SmartTV (*Android TV, tvOS, Tizen, webOS*) приложения, UI и API WEBок серверов, ПО фирменных брендовых ТВ и ТВ-стиков "Триколор".  
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="20"/></h1>   Привет, меня зовут Сергей, я QA engineer. C января 2023 по настоящий момент работаю Инженером по тестированию в НСК "Триколор", г. Санкт-Петербург. Тестирую мобильные (*Android, iOS*) и SmartTV (*Android TV, tvOS, Tizen, webOS*) приложения, UI и API WEBок серверов, ПО фирменных брендовых ТВ и ТВ-стиков "Триколор".  
 - Я изучаю автоматизацию тестирования и пишу UI и API автотесты на **Python** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="25" width="25"/>
 - Получаю задачи, оформляю баг-репорты и вношу предложения в **Jira**<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg" height="25" width="25"/>
 - Веду тестовую документацию в **Test IT** и **Xmind**  
